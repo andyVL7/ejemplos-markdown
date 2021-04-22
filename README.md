@@ -15,3 +15,15 @@ __Otro texto en negrita__
 Miguel de Cervantes(1605)
 
 [Enlace al sitio web de la UCR](https://www.ucr.ac.cr/)
+
+
+Lista numerada:
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
+
+Lista no numerada:
+- Primer elemento
+- Segundo elemento
+- Tercer elemento
